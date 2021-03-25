@@ -49,5 +49,5 @@ jobs:
       env:
         CI: true
     
-    - run: npm test
+  #  - run: npm test
     
